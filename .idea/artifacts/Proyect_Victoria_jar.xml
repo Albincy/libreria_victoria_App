@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Proyect_Victoria:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proyect_Victoria_jar</output-path>
+    <root id="archive" name="Proyect_Victoria.jar">
+      <element id="module-output" name="Proyect_Victoria" />
+    </root>
+  </artifact>
+</component>
